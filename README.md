@@ -4,6 +4,4 @@ Estou desenvolvendo os CSS de projetos que vem sendo desenvolvido ao londo do cu
 
 Conforme for aumentando os projetos realizados, irei criar uma nova página para. 
 
-scss - Cursando pela Udemy, muito bom as funcionalidades!. 
-
-. 
+scss - Cursando pela Udemy, muito bom as funcionalidades! 
